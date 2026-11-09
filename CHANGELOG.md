@@ -5,6 +5,8 @@ The format follows Keep a Changelog 1.1.0 and this project follows Semantic Vers
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 - Add `greet()` punctuation argument: fixed `!` becomes customizable punctuation.
 
